@@ -1,6 +1,8 @@
 # Add All Users to New Account
 
-This module invites all the IAM users from one account into a second account
+This module invites all the IAM users from one account into a second account. 
+
+**This module will not copy access groups or permissions, it only adds users**
 
 ---
 
