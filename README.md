@@ -1,4 +1,4 @@
-# Add All Users to New Account
+# Clone users to new account
 
 This module invites all the IAM users from one account into a second account. 
 
